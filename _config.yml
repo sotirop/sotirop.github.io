@@ -3,7 +3,7 @@ description: Blogging about stuff
 meta_description: "var thoughts"
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /
