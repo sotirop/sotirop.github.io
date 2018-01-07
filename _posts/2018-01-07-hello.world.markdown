@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Hello, world!"
+date:   2018-01-07 19:15
+categories: var
+---
+This is my "hello, world" post using Jekyll.
+
+Next step is to write the post from within org-mode and then export it to the local web site and then to github.com pages.
